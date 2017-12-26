@@ -1,0 +1,11 @@
+#helpim_delivery_map {
+    height: 400px;
+    width: 550px;
+}
+
+.ui-autocomplete {
+    max-height: 20em;
+    overflow-y: auto;
+    /* prevent horizontal scrollbar */
+    overflow-x: hidden;
+}
